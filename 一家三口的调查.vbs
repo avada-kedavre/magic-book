@@ -9,4 +9,4 @@ yourmother=inputbox("名称","你母亲的名字是什么")
 mothers=inputbox("年龄","你母亲的年龄是什么")
 yourfather=inputbox("名称","你父亲的名字叫什么")
 fathers=inputbox("年龄","你父亲的年龄是什么")
-msgbox you&vbcrlf&yourage+yourmother&mothers&yourfather&fathers 
+msgbox you&" "&yourage&vbcrlf&yourmother&" "&mothers&vbcrlf&yourfather&" "&fathers 
